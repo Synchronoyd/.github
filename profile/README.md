@@ -27,24 +27,15 @@ We write smart tools and structure our code to reduce repetitive tasks, cut down
 
 We use: 
 
-- PHP
-- JS
+- PHP as Backend
+- JS as Frontend (+ TypeScript Compiler)
+- TS as Frontend Framework
 - SCSS
 - CSS
 - HTML
-
-We are trying to use Go for extensive tasks. 
-
-## Why the name? 
-
-When our founder Leander Hass wrote the documentation for an early version of our first product, the web-framework [Cobalton](https://build42.dev/#framework), 
-he wanted an arbitrary name for a directory containing a build of a website. He (and most of our team now) is a huge fan of Douglas Adams' 
-"The Hitchhikers Guide to the Galaxy" in which the number 42 is the "Answer to the Ultimate Question of Life, the Universe, and Everything".
-He therefore named the directory "build_42". See it you sly fox?
+- Go for extensive tasks
 
 ---
 
 What can we say? We hope you enjoyed this little documentation of our little organization. If you want some more facts and an immersive experience visit 
 our neat little homepage [build42.dev](https://build42.dev).
-
-Thanks for all the fish! :dolphin:
