@@ -1,2 +1,2 @@
 # .github
-Configuration files for Build_42's GitHub-organization.
+Configuration files for @synchronoyd's GitHub-organization.
